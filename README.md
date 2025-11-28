@@ -1,10 +1,11 @@
+
 # B-Tech Final Year Projects
 
 Welcome to the **B.Tech Final Year Projects Repository**. This repository contains a comprehensive list of **100 recent and innovative projects** for Computer Science and Engineering (CSE) students, including abstracts, tools used, algorithms applied, existing methods, and proposed methods. These projects are ideal for final-year students seeking inspiration or guidance for their capstone projects.
 
 ## 📂 Project Structure
 
-- **Projects 1–100**: Detailed project descriptions in tabular format including:
+- **Projects 1–100**: Detailed project descriptions in tabular format, including:
   - Project Title
   - Abstract (100 words)
   - Tools Used
